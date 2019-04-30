@@ -1,0 +1,58 @@
+* {
+margin: 0;
+box-sizing: border-box;
+
+}
+.go{
+background-color: black;
+width: 700px;
+height: 500px;
+
+
+}
+.ba{
+color: white;
+margin-top: 170px;
+margin-left: 50px;
+
+}
+.all{
+display: flex;
+
+}
+.ok {
+width: 100px;
+margin-left: 200px;
+color: lightblue;
+margin-top: 20px;
+
+}
+.done {
+font-size: 30px;
+margin-top: 50px;
+margin-left: 70px;
+}
+.sal{
+    background-color: black;
+    width: 700px;
+    height: 500px;
+}
+.bal{
+    color: white;
+}
+.baza{
+    display: flex;
+    margin-top: -4px;
+}
+.bok {
+width: 100px;
+margin-left: 200px;
+margin-top: 50px;
+
+}
+.pop
+{
+    margin-left: 70px;
+margin-top: auto;
+mar
+}
